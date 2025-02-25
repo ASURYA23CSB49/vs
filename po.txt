@@ -1,2 +1,4 @@
-surya=70
-vikranth=74
+
+surya=80
+vikranth=90
+
